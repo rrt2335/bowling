@@ -1,0 +1,84 @@
+body {
+    background-image: url("http://www.trbimg.com/img-5991b4b9/turbine/os-bz-bowling-lanes-closing-20170813");
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    font-family: 'Permanent Marker', cursive;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: thin;
+    padding-bottom: 10px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-width: thick;
+    border-color: white;
+    border-style: solid;
+    box-shadow: 0 0 10px black;
+}
+
+.first-image {
+    border-radius: 35px;
+}
+
+.second-image {
+    height: 225px;
+    width: 225px;
+}
+
+.description {
+    padding-bottom: 10px;
+    padding-inline-end: inherit;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.card-white {
+    color: white;
+    background-color: #0b132a;
+    padding: 30px;
+    box-shadow: 1px 1px 10px black;
+    border-width: thick;
+    border-color: white;
+    border-radius: 10px;
+    margin: 20px 0px;
+}
+
+.row1 {
+    padding-top: 5px;
+    font-family: Tahoma;
+    background-color: #ce0006;
+    box-shadow: 0 0 25px black;
+    text-shadow: 0 0 10px black;
+    font-family: 'Permanent Marker', cursive;
+    text-align: left;
+}
+
+.row2 {
+    padding-top: 20px;
+}
+
+.row4 {
+    padding-bottom: 15px;
+    color: white;
+    text-shadow: 0 0 15px black;
+    padding-left: 20px;
+}
+
+.row5 {
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    background-color: #ce0006;
+    box-shadow: 0 0 25px black;
+    text-shadow: 0 0 10px black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+p {
+    margin-bottom: 0px;
+}
